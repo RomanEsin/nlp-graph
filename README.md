@@ -1,6 +1,6 @@
 # Draws a graph from a text
 
-## Make sure to install [dotplugin](https://plugins.jetbrains.com/plugin/10312-dotplugin) in PyCharm to preview beautiful graphs
+## Make sure to install [dotplugin](https://plugins.jetbrains.com/plugin/10312-dotplugin) in PyCharm to beautifully preview graphs
 
 ## Supports only Russian language! (Because it works on [natasha](https://github.com/natasha/natasha))
 

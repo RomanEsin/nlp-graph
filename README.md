@@ -17,7 +17,7 @@
 Кухня и Спальня не соединены
 Туалет и Коридор соединены
 ```
+(Ignore the errors from the graphviz)
 5. You'll get a graph file `graph.gv` which you can preview right in **PyCharm** via **dotplugin**
-6. (Ignore the errors from the graphviz)
 
 ![Graph preview](preview.png)

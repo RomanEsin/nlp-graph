@@ -78,7 +78,7 @@ def main():
                     dot.edge(room.lemma, another_room.lemma)
 
     print(dot.source)
-    dot.render("test.gv")
+    dot.render("graph.gv")
 
 
 if __name__ == '__main__':

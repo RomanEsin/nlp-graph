@@ -2,6 +2,8 @@
 
 ## Make sure to install [dotplugin](https://plugins.jetbrains.com/plugin/10312-dotplugin) in PyCharm to preview beautiful graphs
 
+## Supports only Russian language! (Because it works on [natasha](https://github.com/natasha/natasha))
+
 ### Running the project
 
 1. Open the project in **PyCharm**
@@ -16,3 +18,5 @@
 Туалет и Коридор соединены
 ```
 5. You'll get a graph file `graph.gv` which you can preview right in **PyCharm** via **dotplugin**
+
+![Graph preview](preview.png)
